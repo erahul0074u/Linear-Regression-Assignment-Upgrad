@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2032b828-726d-46a1-b7ec-083a0e5dcd28)# Linear-Regression-Assignment-Upgrad
+# Linear-Regression-Assignment-Upgrad
 It's Linear regression assignment on Linear Regression from Upgrad_2024
 Table of Content:- 
 1. Problem Statement
